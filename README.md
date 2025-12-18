@@ -50,14 +50,14 @@ This project implements core concepts from the following units of the Advanced J
     ```bash
     npm start
     ```
-    *The app will run by default on port 8080 (or as configured in your environment).* [cite: 122]
+    *The app will run by default on port 8080 (or as configured in your environment).*
 
 ---
 
 ## 🎓 Exam-Specific Concepts Implemented
 * **Socket Communication:** Facilitating machine-to-machine interaction.
-* **HTTP Status Handling:** Integrated error handling for 404 (Not Found) and 500 (Server Error) responses[cite: 156, 161].
-* **Data Binding:** Real-time UI updates similar to AngularJS two-way binding principles[cite: 76, 79].
+* **HTTP Status Handling:** Integrated error handling for 404 (Not Found) and 500 (Server Error) responses.
+* **Data Binding:** Real-time UI updates similar to AngularJS two-way binding principles.
 
 ---
 [cite_start]*Developed as part of the Advanced Java Programming (21IPE336T) Lab requirements.* [cite: 5, 6]
