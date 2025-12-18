@@ -1,6 +1,7 @@
 # 💬 Chat App: Socket Programming & System Integration
 
-A real-time communication platform built to demonstrate **Socket Programming**, **TCP/UDP protocols**, and **Full-Stack Integration**. [cite_start]This project serves as a practical implementation of the **Advanced Java Programming (21IPE336T)** syllabus[cite: 5].
+A real-time communication platform built to demonstrate **Socket Programming**, **TCP/UDP protocols**, and **Full-Stack Integration**.
+This project serves as a practical implementation of the **Advanced Java Programming (21IPE336T)** syllabus.
 
 ## 📖 Academic Context
 This project implements core concepts from the following units of the Advanced Java curriculum:
