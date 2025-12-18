@@ -60,5 +60,5 @@ This project implements core concepts from the following units of the Advanced J
 * **Data Binding:** Real-time UI updates similar to AngularJS two-way binding principles.
 
 ---
-[cite_start]*Developed as part of the Advanced Java Programming (21IPE336T) Lab requirements.* [cite: 5, 6]
+*Developed as part of the Advanced Java Programming (21IPE336T) Lab requirements.* 
 
