@@ -20,9 +20,9 @@ This project implements core concepts from the following units of the Advanced J
 
 ## 🚀 Key Features
 * **Real-time Messaging:** Low-latency communication using Sockets.
-* [cite_start]**Protocol Flexibility:** Demonstrates the difference between TCP (reliable) and UDP (fast) communication styles[cite: 143, 147].
-* [cite_start]**Secure Validation:** Uses Regular Expressions to validate user credentials and room IDs before connection[cite: 30, 180].
-* [cite_start]**Microservice Ready:** Designed with a decoupled architecture, making it easy to transition into a Microservices environment[cite: 148, 222].
+* *Protocol Flexibility:** Demonstrates the difference between TCP (reliable) and UDP (fast) communication styles.
+* **Secure Validation:** Uses Regular Expressions to validate user credentials and room IDs before connection.
+* **Microservice Ready:** Designed with a decoupled architecture, making it easy to transition into a Microservices environment.
 
 
 
