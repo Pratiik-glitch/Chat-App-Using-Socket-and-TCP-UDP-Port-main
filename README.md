@@ -55,9 +55,9 @@ This project implements core concepts from the following units of the Advanced J
 ---
 
 ## 🎓 Exam-Specific Concepts Implemented
-* [cite_start]**Socket Communication:** Facilitating machine-to-machine interaction.
-* [cite_start]**HTTP Status Handling:** Integrated error handling for 404 (Not Found) and 500 (Server Error) responses[cite: 156, 161].
-* [cite_start]**Data Binding:** Real-time UI updates similar to AngularJS two-way binding principles[cite: 76, 79].
+* **Socket Communication:** Facilitating machine-to-machine interaction.
+* **HTTP Status Handling:** Integrated error handling for 404 (Not Found) and 500 (Server Error) responses[cite: 156, 161].
+* **Data Binding:** Real-time UI updates similar to AngularJS two-way binding principles[cite: 76, 79].
 
 ---
 [cite_start]*Developed as part of the Advanced Java Programming (21IPE336T) Lab requirements.* [cite: 5, 6]
